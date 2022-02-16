@@ -35,6 +35,6 @@ print(np.linalg.inv(l2))
 ```
 
 ## OUTPUT:
-![output](invmat.
+![output](invmat.png)
 ## RESULT:
 Thus python program to find inverse of matrix is done.
